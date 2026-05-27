@@ -112,8 +112,3 @@ Or use **VS Code → Live Server** for hot reload during development.
 
 
 
-
-
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Nityaa20)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nityaasuresh2005@gmail.com)
