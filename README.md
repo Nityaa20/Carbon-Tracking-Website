@@ -2,7 +2,7 @@
 
 > An interactive, single-page web application to log, visualise, and reduce your personal carbon footprint — tracking emissions from transport, energy, and food in real time.
 
-🔗 **Live Demo:** [nityaa20.github.io/smart-carbon-tracker](https://nityaa20.github.io/smart-carbon-tracker) ← _update after deploying_
+🔗 **Live Demo:** https://nityaa20.github.io/Carbon-Tracking-Website/
 
 
 ## ✨ Features
